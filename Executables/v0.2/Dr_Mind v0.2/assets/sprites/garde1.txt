@@ -1,0 +1,7 @@
+Garde : Halte ! Qui es-tu ?
+Player : Je suis Player !
+Garde : Et où tu vas comme ça ? 
+Player : Ben par là ... vers l'inconscient
+Garde : Ah tu refoules ?!
+Ben vas-y, pas de problème. 
+C'est dans l'autre sens que je suis sensé    bloquer le passage. 

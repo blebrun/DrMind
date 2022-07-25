@@ -1,0 +1,6 @@
+Garde : Bonjour !
+Player : Bonjour. 
+Garde : Vous vous promenez ?
+Moi j'aime bien par ici. 
+Vous verrez, il y a plein de névroses sympa. 
+Ca change des problème de mémés à caniche !

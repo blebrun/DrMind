@@ -1,0 +1,9 @@
+Paul : Tu es qui toi ?
+Tu n'es pas Lacanien j'espère ?
+Player : Je m'appelle Player.
+Paul : Hein ! Pourquoi tu t'appelles Player ?
+Tu as dû te rater au démarrage ! ...
+Tu sais qu'il fallait saisir ton nom ?!
+Player : Ah ...
+Paul : Bon aller, c'est pas le tout mais je   suis occupé !
+Je suis sensé tourner en rond pour rendre le  jeu plus réaliste.

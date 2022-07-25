@@ -1,0 +1,14 @@
+A faire dans le développement
+-----
+
+* Ajouter lecture des panneaux (processus à part)
+* Faire récupération d'objet dans l'inventaire
+* Faire MAJ du mot de passe
+* Faire apparition au point de spawn nouveau si sauvegarde
+* Ajouter animaux en sprites classiques (chat + tortue + grenouilles ?)
+* Faire sprites qui ne parlent pas + à travers lesquels on peut passer (pour décor) + bougent sur place ? 
+* Son à l'ouverture du dialogue (sprites)
+
+* ajouter la touche entrée comme identique à la touche espace (pour les dialogues)
+* lire les objet (comme les bibliothèques)
+

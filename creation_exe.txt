@@ -1,0 +1,18 @@
+Jeu python
+Création de l'archive .exe
+--------------------
+
+
+1. Ouvrir le bloc de commandes
+
+2. Aller dans le dossier du jeu (cd C:/...)
+
+3. Regrouper tous les assets dans un seul dossier
+
+4. Lancer la commande 
+pyinstaller nom_fichier_maitre.py --onefile --noconsole
+
+5. Ajouter dans le dossier "dist" le dossier d'assets
+
+
+
